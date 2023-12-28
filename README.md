@@ -3,13 +3,15 @@
 
 ### :man_technologist: About Me:
 
-<p align="left">Hello, my name is Nicat Haciyev, and I am a front-end developer. My passion for creating unique user interfaces drives me to constantly seek innovations in the world of web technologies.
+<p align="left">Hello! My name is Yusif Kerim, and I proudly identify myself as an Internet marketer and Frontend developer. The world of web technologies and digital marketing has become my creative space, where I discovered a passion for creating unique and innovative online projects.
 
-I believe that design and functionality should seamlessly come together, and it is this direction that inspires me in my work. My projects not only follow trends but actively contribute to shaping them. I strive to ensure that my interfaces not only appeal visually but also provide ease of use for every user.
+My inspiration lies in the pursuit of perfection in every line of code and marketing strategy. As a Frontend developer, I am enthusiastic about crafting visually appealing and user-friendly interfaces. My goal is not only to make your web pages functional but also to give them a unique style and recognizability.
 
-In my work, I don't limit myself to standards. I am drawn to a creative approach to problem-solving, and I am ready to bring fresh ideas to each project. Keeping up with the latest trends and implementing cutting-edge technologies is my key focus.
+When it comes to Internet marketing, I prefer an approach based on data analysis and understanding the needs of the target audience. My strategies are aimed at maximizing online presence and engaging the audience through various channels.
 
-However, my work is not just about the technical side. I value effective teamwork, believing that the best results are achieved collaboratively. My goal is not just to create websites but to develop genuine visual and functional masterpieces that leave an indelible mark on user perception.</p>
+In a world where technology and marketing are inseparable, I strive to be at the forefront and continually enrich my skills. My aim is not just to follow trends but to create them, contributing to the development of the web environment.
+
+In my free time, I enjoy exploring new technologies, reading articles about the latest trends in marketing and programming, and experimenting with creativity. The world of web technologies offers endless possibilities, and I am ready to explore them together with you.</p>
 
 <h3 align="left">Languages and Tools:</h3>
 
